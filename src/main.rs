@@ -4,6 +4,7 @@
 ///
 /// Wonderful stuff
 
+// added documentation for main
 fn main() {
     print("Hello world!");
 }
